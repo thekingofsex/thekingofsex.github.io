@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gooderbrother.github.io</id>
+    <title>e680a7e788b1e5a4a7e5b888</title>
+    <updated>2022-01-10T09:29:44.363Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gooderbrother.github.io"/>
+    <link rel="self" href="https://gooderbrother.github.io/atom.xml"/>
+    <subtitle>人生如白驹过隙，一定要抓紧时间好学习</subtitle>
+    <logo>https://gooderbrother.github.io/images/avatar.png</logo>
+    <icon>https://gooderbrother.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, e680a7e788b1e5a4a7e5b888</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://gooderbrother.github.io/post/hello-gridea/</id>
+        <link href="https://gooderbrother.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>👏  2020-01-10 <strong>此博诞生！</strong> ！<br>
+✍️  鄙人ID为<strong>e680a7e788b1e5a4a7e5b888</strong></p>
+]]></content>
+    </entry>
+</feed>
