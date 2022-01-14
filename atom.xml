@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gooderbrother.github.io</id>
-    <title>e680a7e788b1e5a4a7e5b888</title>
-    <updated>2022-01-14T00:48:07.987Z</updated>
+    <title>马国忠</title>
+    <updated>2022-01-14T00:53:34.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gooderbrother.github.io"/>
     <link rel="self" href="https://gooderbrother.github.io/atom.xml"/>
     <logo>https://gooderbrother.github.io/images/avatar.png</logo>
     <icon>https://gooderbrother.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, e680a7e788b1e5a4a7e5b888</rights>
+    <rights>All rights reserved 2022, 马国忠</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://gooderbrother.github.io/post/hello-gridea/</id>
